@@ -41,7 +41,7 @@ ul {list-style: none;}
 .team-work{font-size: 16px;line-height: 1.9; text-align: center;letter-spacing: 0.03em;}
 
 /* Портфоліо */
-.filter-button{text-align: center;letter-spacing: 0.03em;cursor: pointer;background-color: #F5F4FA; color:var(--title-text-color); border:none;font-weight: 500; font-size: 16px;line-height: 1.6;}
+.filter-button{text-align: center;letter-spacing: 0.03em;cursor: pointer;background-color: #F5F4FA; color:var(--title-text-color); border:none;font-weight: 500; font-size: 16px;line-height: 1.6;font-family: inherit;}
 .filter-button:hover,.filter-button:focus {background-color: var(--accent);color:#FFFFFF}
 .projects-name{color:var(--title-text-color); font-weight:700;font-size: 18px;line-height: 2; letter-spacing: 0.06em;}
 .projects-mean{color:var(--main-text-color);font-size: 16px;line-height: 1.9; letter-spacing: 0.03em;}
